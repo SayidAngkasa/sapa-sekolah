@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Panduan Implementasi & Menjalankan "SAPA SEKOLAH" di Visual Studio Code
 
 Aplikasi **SAPA SEKOLAH (Sistem Agenda Pembiasaan dan Informasi Sekolah)** dibangun menggunakan arsitektur web modern yang bersih (*HTML5, CSS3 kustom dengan CSS Variables, dan Vanilla JavaScript SPA/Single Page Application*).
@@ -65,3 +66,6 @@ Aplikasi dirancang dengan pendekatan *Mobile-First*:
 3. **Pusat Informasi**: Coba fitur filter kategori (*Kegiatan, Akademik, Jadwal, Tugas*) dan kolom pencarian kata kunci.
 4. **Alur Persetujuan (Approval Flow)**: Khusus peran Guru/Admin/Kepsek, buka menu **Persetujuan** untuk menguji aksi *Setujui* atau *Tolak*.
 5. **Saran Siswa via WhatsApp**: Pada halaman Profil > Saran Siswa, pesan akan diformat otomatis dan diarahkan ke nomor WhatsApp tujuan.
+=======
+# sapa-sekolah
+>>>>>>> 1c4fc6356481fb95cf0308de1a411bf69a83cdec
